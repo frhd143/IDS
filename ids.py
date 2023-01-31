@@ -1,12 +1,4 @@
-# Labration 4 IDS 
 # Skriven av Farhad Asadi, november 2021
-
-# Frågen
-# 1. Hur mycket tid trodde du att det skulle ta att lösa den här uppgiften?
-#  Jag trodde att det skulle ta ungefär 5-6 timmar att lösa uppgiften
-# 2. Hur mycket tid har du lagt ned på att lösa uppgiften?
-# Jag har lagt ned ungefär 9-10 timmar på att lösa den här uppgiften
-
 
 
 import os
