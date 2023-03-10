@@ -17,7 +17,7 @@ This Python script is designed to check the integrity of files within a director
 python3 ids.py
 ```
 The script will generate a log file: hash_data_0.txt. hash_data_0.txt contains the current set of hash values for all files in the directory and its subdirectories.
-3. Add some files, delete some files, or modify some files
+3. Add some files, delete some files, or modify some files.
 4. Run the script again:
 ```sh
 python3 ids.py
