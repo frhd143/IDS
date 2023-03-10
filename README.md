@@ -6,6 +6,7 @@ This Python script is designed to check the integrity of files within a director
 
 
 ## Requirements
+- #### Right now the script only works in Windows OS
 - Python 3.x
 - hashlib library
 
